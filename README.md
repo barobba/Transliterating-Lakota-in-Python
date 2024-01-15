@@ -7,7 +7,7 @@ Here is an example of using the ICU library to transliterate a Lakota string in 
 ### Requirements
 **System**
 - Python 3
-- The "ICU4C" library
+- The "ICU4C" files (installed on your system)
 
 **Python Packages**
 - icupy ([GitHub](https://github.com/miute/icupy), [PyPI](https://pypi.org/project/icupy/))
