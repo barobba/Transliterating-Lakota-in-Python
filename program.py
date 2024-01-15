@@ -29,6 +29,6 @@ def print_example(input):
     print("BEFORE: ", input, ", AFTER: ", input_as_unicode, sep="")
 
 # Print some examples of "deer" in Lakota
-print_example("tȟáȟčha")
-print_example("Tȟáȟčha")
-print_example("TȞÁȞČHA")
+print_example("tȟáȟčha")  # Lowercase
+print_example("Tȟáȟčha")  # First letter capitalized
+print_example("TȞÁȞČHA")  # All capitalized
