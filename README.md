@@ -31,4 +31,4 @@ Note: [When installing the "icupy" Python package on a Mac, there is a bug findi
 ---
 ### Links
 - [Lakota orthographies](https://www.languagegeek.com/siouan/lakota.html)
-- [ICU Transliterator Class](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4c/classicu_1_1Transliterator.html)
+- [icu::Transliterator Class Reference](https://unicode-org.github.io/icu-docs/apidoc/dev/icu4c/classicu_1_1Transliterator.html)
