@@ -1,5 +1,5 @@
 
-# Transliterating Lakota (Python)
+# Transliterating Lakota (in Python)
 
 Here is an example of using the ICU library to transliterate a Lakota string in Python.
 
